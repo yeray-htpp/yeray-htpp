@@ -61,11 +61,11 @@
 <tr>
 <td width="34%" rowspan="2"><img src="assets/anim-capilla.gif" width="300" alt="Capilla gótica en ruinas con máquinas de arcade bajo una luna roja"></td>
 <td width="33%"><h3>🧟 Valdeumbra</h3><p>FPS de supervivencia zombi en el navegador. Lo hice para la universidad.</p><p><a href="https://yeray-htpp.github.io/Valdeumbra/">▶ Jugar</a></p></td>
-<td width="33%"><h3>[Título]</h3><p>[Una o dos líneas.]</p><p><a href="#">Enlace opcional</a></p></td>
+<td width="33%"><h3>🔒 ???</h3><p>Próximo experimento.</p><p><a href="#">Enlace </a></p></td>
 </tr>
 <tr>
-<td><h3>[Título]</h3><p>[Una o dos líneas.]</p><p><a href="#">Enlace opcional</a></p></td>
-<td><h3>🔒 ???</h3><p><sub>Espacio libre para el próximo experimento.</sub></p></td>
+<td><h3>🔒 ???</h3><p>Próximo experimento.</p><p><a href="#">Enlace </a></p></td>
+<td><h3>🔒 ???</h3><p>Próximo experimento.</p><p><a href="#">Enlace </a></p></td>
 </tr>
 </table>
 
