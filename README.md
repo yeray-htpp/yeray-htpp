@@ -117,7 +117,7 @@ Cuando hay algo que resolver, me gusta darle un par de vueltas y ver qué opció
 <a id="contacto"></a>
 <p><img src="assets/plate-continuar.png" width="960" alt="¿Continuar?"></p>
 <p align="center">
-<a href="#"><img src="assets/btn-linkedin.gif" width="152" alt="LinkedIn">https://www.linkedin.com/in/yeray-arteaga-893497415/</a>&nbsp;
+<a href="#"><img src="assets/btn-linkedin.gif" width="152" alt="LinkedIn"></a>&nbsp;
 <a href="#"><img src="assets/btn-portafolio.gif" width="176" alt="Portafolio"></a>&nbsp;
 <a href="#"><img src="assets/btn-correo.gif" width="128" alt="Correo"></a>&nbsp;
 <a href="#"><img src="assets/btn-cv.gif" width="80" alt="Descargar CV"></a>
