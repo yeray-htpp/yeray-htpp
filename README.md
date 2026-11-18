@@ -14,7 +14,7 @@
 <tr>
 <td width="58%"><img src="assets/demo-neon.gif" width="600" alt="Marco neón para la demo del proyecto destacado"></td>
 <td width="42%">
-<h3>⭐ Proyecto destacado</h3>
+<h3> Proyecto destacado</h3>
 <p>[Nombre del proyecto]</p>
 <p><strong>Qué resuelve</strong><br>[El problema en una o dos líneas.]</p>
 <p><strong>Qué hice yo</strong><br>[Tu parte exacta: diseño, código, datos…]</p>
@@ -33,8 +33,8 @@
 <h1><img src="assets/emoji-wave.gif" width="40" alt=""> Yeray Gutierrez</h1>
 <p><strong>Clase:</strong> Desarrollador de sistemas · <strong>Gremio:</strong> IB1 Investment Business One · <strong>Base:</strong> Trujillo, Perú</p>
 <p>Construyo apps de escritorio, móviles y web para finanzas, y juegos de terror cuando nadie me ve.</p>
-<p><img src="assets/emoji-terminal.gif" width="20" alt=""> <strong>Inventario</strong><br>
-<img src="https://skillicons.dev/icons?i=tauri,svelte,react,supabase,postgres,sqlite&perline=7" height="44" alt="Tauri, Svelte, React Native, Supabase, PostgreSQL, SQLite"> <code>Expo</code></p><p>🛡️ <strong>Subiendo de nivel:</strong> arquitectura de bases de datos con enfoque en seguridad.</p>
+<p><img src="assets/emoji-terminal.gif" width="20" alt=""> <strong>Stack</strong><br>
+<img src="https://skillicons.dev/icons?i=tauri,svelte,react,supabase,postgres,sqlite&perline=7" height="44" alt="Tauri, Svelte, React Native, Supabase, PostgreSQL, SQLite"> <code>Expo</code></p><p> <strong>En progreso:</strong> arquitectura de bases de datos con enfoque en seguridad.</p>
 </td>
 </tr>
 </table>
@@ -108,15 +108,16 @@
 <a id="fuera"></a>
 <p><img src="assets/plate-fuera.png" width="960" alt="Cinemática: fuera del teclado"></p>
 <p align="center"><img src="assets/mundo-personal.jpg" width="1280" alt="Cómic de tres paneles: Yeray se pone el casco, maneja su moto por la costa al atardecer y mira el mar de noche"></p>
-<p><strong>Quién soy:</strong> [dos líneas con tu voz.]</p>
-<p><strong>Qué me gusta:</strong> [la moto, el terror, la música…]</p>
-<p><strong>Fuera del trabajo:</strong> [qué haces cuando apagas la compu.]</p>
+<p><strong>Quién soy:</strong> Me encanta  aprender cosas nuevas, sean del tema que sean.
+Cuando hay algo que resolver, me gusta darle un par de vueltas y ver qué opción encaja mejor. Soy así en el trabajo y en la vida.</p>
+<p><strong>Qué me gusta:</strong> Creo que no podría vivir sin música. Escucho un poco de todo. También me encantan las pelis de acción, comedia y terror, y disfruto mucho los videojuegos single player. Amo la IA y me emociona imaginar lo que viene.</p>
+<p><strong>Fuera del trabajo:</strong> Me fascinan las motos, sobre todo viajar en ellas. Estar en carretera me da esa tranquilidad que necesito para despejar la mente. También me gusta ir al gym y cuidar lo que como. Y, en general, me encanta vivir.</p>
 
 <!-- ===== CONTINUAR ===== -->
 <a id="contacto"></a>
 <p><img src="assets/plate-continuar.png" width="960" alt="¿Continuar?"></p>
 <p align="center">
-<a href="#"><img src="assets/btn-linkedin.gif" width="152" alt="LinkedIn"></a>&nbsp;
+<a href="#"><img src="assets/btn-linkedin.gif" width="152" alt="LinkedIn">https://www.linkedin.com/in/yeray-arteaga-893497415/</a>&nbsp;
 <a href="#"><img src="assets/btn-portafolio.gif" width="176" alt="Portafolio"></a>&nbsp;
 <a href="#"><img src="assets/btn-correo.gif" width="128" alt="Correo"></a>&nbsp;
 <a href="#"><img src="assets/btn-cv.gif" width="80" alt="Descargar CV"></a>
